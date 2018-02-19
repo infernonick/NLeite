@@ -1,5 +1,7 @@
 Leonardo de Caprio,
 
-Johnny Depp,
+Avril Lavigne,
 
-Milla Jovovich
+Milla Jovovich,
+
+Eminem
